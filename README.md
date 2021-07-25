@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Plabon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Web Developer;Currently+on+Front+End;DS%20|%20AI%20|%20ML%20Enthusiast;Learning%20Django;Always%20learning%20new%20things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Web Developer;Working+On+Front+End;DS+|+AI+|+ML+Enthusiast;Learning+Django;Always+learning+new+things)](https://git.io/typing-svg)
 </p>
 
 <p align="center">
