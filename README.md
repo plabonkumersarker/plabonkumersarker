@@ -22,7 +22,7 @@
 <h1>Top Languages!</h1>
 <Br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/plabonkumersarker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plabonkumersarker&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/plabonkumersarker/github-readme-stats)
   
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=plabonkumersarker.plabonkumersarker)
