@@ -8,7 +8,7 @@
 - 👯 looking to collaborate on ... frontend projects
 - 🤔 looking for help with ... frontend stuffs
 - 💬 Ask me about ... anything
-- 📫 reach me: ... [Linktree](https://linktr.ee/noncsdude)
+- 📫 reach me: ... [Profile](https://plabonkumersarker.github.io/profile/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Academically, I'm from English Literature
 
