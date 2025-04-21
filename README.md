@@ -15,10 +15,6 @@
 <Br>
 <h1>GitHub Stats!</h1>
 <Br>
-  
-[![Plabon's github stats](https://github-readme-stats.vercel.app/api?username=plabonkumersarker&show_icons=true&theme=merko)](https://github.com/plabonkumersarker/github-readme-stats) 
-  
-<Br>
 <h1>Top Languages!</h1>
 <Br>
   
